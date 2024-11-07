@@ -20,7 +20,7 @@ A 2D game (Flappy Bird clone) in C using SDL2.
 1. Clone the repository
 2. From the project root, compile using:
    ```bash
-   gcc src/*.c -o src/main.exe -I./include -L./lib -lSDL2 -lSDL2main -mwindows
+   gcc src/main.c -o src/main.exe -I./include -L./lib -lSDL2 -lSDL2main -mwindows
    ```
 
 ## Project Structure
