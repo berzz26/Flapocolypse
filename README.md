@@ -1,10 +1,10 @@
 # Your Game Name
 
-A 2D game built in C using SDL2.
+A 2D game Flappy Bird in C using SDL2.
 
 ## Quick Start (Play the Game)
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/your-repo/releases) page
+1. Download the latest release from the [Releases](https://github.com/berzz26/SDL_C/releases/V-1.0) page
 2. Extract the ZIP file
 3. Run `build/main.exe`
 
@@ -60,5 +60,3 @@ All required dependencies are included in the project:
 - Uses SDL2 for graphics and input
 - Built with GCC
 
-## License
-State your license here
