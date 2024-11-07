@@ -1,6 +1,6 @@
-# Your Game Name
+# Flapocalypse
 
-A 2D game Flappy Bird in C using SDL2.
+A 2D game (Flappy Bird clone) in C using SDL2.
 
 ## Quick Start (Play the Game)
 
