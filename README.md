@@ -8,7 +8,7 @@ A 2D game (Flappy Bird clone) in C using SDL2.
 2. Extract the ZIP file
 3. Run `build/main.exe`
 
-## Building from Source
+## Building from Source(run/view the code in your local system)
 
 ### Method 1: Using VS Code (Recommended)
 1. Clone the repository
