@@ -7,6 +7,7 @@ A 2D game (Flappy Bird clone) in C using SDL2.
 1. Download the latest release from the [Releases](https://github.com/berzz26/SDL_C/releases) page
 2. Extract the ZIP file
 3. Run `flapocolypse.exe`
+(another way can be directly just downloading the flapocolypse.exe and running it, but due to the great broker, windows, it would be detected malicious(as it is just another executable) so i recommend to just extract the zip and test.)
 
 ## Building from Source(run/view the code in your local system)
 
