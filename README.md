@@ -1,7 +1,8 @@
 # Flapocalypse
 
 A 2D game (Flappy Bird clone) in C using SDL2.
-heres a tldr :- ![image](https://github.com/user-attachments/assets/76a975bc-1cd2-43a3-8ef7-22ef22a5dac0)
+
+#### heres a tldr :- ![image](https://github.com/user-attachments/assets/76a975bc-1cd2-43a3-8ef7-22ef22a5dac0)
 
 ## Quick Start (Play the Game)
 
