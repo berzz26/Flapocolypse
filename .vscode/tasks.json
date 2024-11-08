@@ -8,7 +8,7 @@
             "args": [
                 "src/main.c",
                 "-o",
-                "build/main",
+                "Flapocolypse",
                 "-I${workspaceFolder}/include",
                 "-L${workspaceFolder}/lib",
                 "-lmingw32",
