@@ -4,9 +4,9 @@ A 2D game (Flappy Bird clone) in C using SDL2.
 
 ## Quick Start (Play the Game)
 
-1. Download the latest release from the [Releases](https://github.com/berzz26/SDL_C/releases/V-1.0) page
+1. Download the latest release from the [Releases](https://github.com/berzz26/SDL_C/releases) page
 2. Extract the ZIP file
-3. Run `build/main.exe`
+3. Run `flapocolypse.exe`
 
 ## Building from Source(run/view the code in your local system)
 
@@ -23,24 +23,24 @@ A 2D game (Flappy Bird clone) in C using SDL2.
    gcc src/main.c -o src/main.exe -I./include -L./lib -lSDL2 -lSDL2main -mwindows
    ```
 
-## Project Structure
+## Project Structure(how your root dir should look like)
 ```
 project/
 ├── src/                # C source files
 │   ├── main.c
 │   ├── constants.h
-│   └── other_files.c
+│   └── 
 ├── include/            # Header files
 │   └── SDL2/
 │       └── SDL.h
 ├── lib/                # Library files
 │   ├── libSDL2.a
 │   ├── libSDL2main.a
-│   └── other_libs
+│   
 ├── build/              # Ready to run game
 │   ├── main.exe
 │   ├── SDL2.dll
-│   └── other_dlls
+│   
 └── .vscode/
     └── tasks.json
 ```
@@ -52,8 +52,8 @@ All required dependencies are included in the project:
 - Required DLLs in `build/`
 
 ## Controls
-- ESC - Exit game
-- (other controls)
+- Space to jump.
+
 
 ## Development Notes
 - Written in C99
